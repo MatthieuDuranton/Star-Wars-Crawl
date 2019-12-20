@@ -5,6 +5,7 @@
 
 ### Context :
 * third training week
+* We built the page following a tuto
 
 ### Langages & framework :
 * HTML
